@@ -1,0 +1,1 @@
+The goal is to construct infinite series with genetic components.  Under this construction, we can mutate the series under conditions that give rise to a selective pressure.  We hope to discover series that closely approximate constants of our choosing, if not converge entirely.
